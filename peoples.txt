@@ -1,1 +1,3 @@
-VimCrypt~03!Ê¤U˜¼Ìf@³ƒ¾xØü
+This is my first time editing a text file in git hub 
+I am learning.
+
